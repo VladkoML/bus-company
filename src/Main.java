@@ -13,6 +13,10 @@ public class Main extends JFrame {
 
         Main main = new Main();
 
+        System.out.println("Hello World!!!");
+
+        main.setVisible(true);
+
     }
 
 }
